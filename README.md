@@ -1,9 +1,9 @@
 empset
 ======
 
-[Список опечаток](https://github.com/bdemeshev/em301/raw/master/em301_pset_v2/errata/metrics_errata.pdf) --- обновлен 23.10.2014
+[Список опечаток](https://github.com/bdemeshev/em301/raw/master/em301_pset_v2/errata/metrics_errata.pdf) 
 
-[Решения к задачам](https://github.com/bdemeshev/em301/raw/master/em301_pset_v2/solutions.pdf) --- обновлены 30.01.2014
+[Решения к задачам](https://github.com/bdemeshev/em301/raw/master/em301_pset_v2/solutions.pdf) 
 
 Все наборы данных в формате [.Rdata](https://github.com/bdemeshev/em301/raw/master/em301_pset_v2/pset_data.Rdata)
 
