@@ -3,7 +3,7 @@ empset
 
 [Список опечаток](https://github.com/bdemeshev/em301/raw/master/em301_pset_v2/errata/metrics_errata.pdf) 
 
-[Решения к задачам](https://github.com/bdemeshev/em301/raw/master/em301_pset_v2/solutions_oly/solutions.pdf) 
+[Решения к задачам](https://github.com/bdemeshev/em301/raw/master/em301_pset_v2/solutions_only/solutions.pdf) 
 
 Все наборы данных в формате [.Rdata](https://github.com/bdemeshev/em301/raw/master/em301_pset_v2/pset_data.Rdata)
 
