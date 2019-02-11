@@ -1,11 +1,25 @@
-[Список опечаток](https://github.com/bdemeshev/em_pset/raw/master/errata/metrics_errata.pdf) 
+Полезности:
 
-[Решения к задачам](https://github.com/bdemeshev/em_pset/raw/master/solutions_only/solutions.pdf) 
+* Подробная [инструкция по установке и настройке R, Rstudio](https://bdemeshev.github.io/installation/r/R_installation.html).
 
-Все наборы данных в формате [.Rdata](https://github.com/bdemeshev/em_pset/raw/master/pset_data.Rdata)
+* Список [найденных опечаток](https://github.com/bdemeshev/empset/issues).
 
-Книжку можно приобрести в [издательстве УРСС](http://urss.ru/cgi-bin/db.pl?lang=Ru&blang=ru&page=Book&id=182085)
+Если нашлась новая опечатка, то, пожалуйста, [сообщите о ней](https://github.com/bdemeshev/empset/issues/new) :) 
 
-Если Вы нашли опечатку, у Вас есть вопросы и предложения --- смело пишите нам!
+Для того, чтобы оставить сообщение, возможно, потребуется зарегистрироваться на сайте `github.com`. Если это сложно, то напишите на почту, `bdemeshev@hse.ru`.
 
-Авторы: [Борис Демешев](mailto:boris.demeshev@gmail.com), [Дмитрий Борзых](mailto:borzykh.dmitriy@gmail.com)
+* Все наборы данных, [используемые в задачах](https://github.com/bdemeshev/em_pset/raw/master/pset_data.Rdata).
+
+Подгрузить их легко:
+
+```r
+load("pset_data.Rdata")
+```
+
+* Также могут быть интересны: задачи [бакалаврских семинаров](https://github.com/bdemeshev/metrics_pro) и задачи [бакалаврских контрольных](https://github.com/bdemeshev/metrics_hse_exams) ВШЭ
+
+
+* Книжку можно преобрести в [издательстве УРСС](http://urss.ru/cgi-bin/db.pl?lang=Ru&blang=ru&page=Book&id=221890).
+
+Авторы: [Дмитрий Борзых](https://www.hse.ru/org/persons/10299881) и [Борис Демешев](https://www.hse.ru/staff/bbd).
+
