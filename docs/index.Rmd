@@ -29,5 +29,8 @@ load("pset_data.Rdata")
 
 * Также могут быть интересны: задачи [бакалаврских семинаров](https://github.com/bdemeshev/metrics_pro) и задачи [бакалаврских контрольных](https://github.com/bdemeshev/metrics_hse_exams) ВШЭ
 
+
+* Книжку можно преобрести в [издательстве УРСС](http://urss.ru/cgi-bin/db.pl?lang=Ru&blang=ru&page=Book&id=221890).
+
 Авторы: [Дмитрий Борзых](https://www.hse.ru/org/persons/10299881) и [Борис Демешев](https://www.hse.ru/staff/bbd).
 
