@@ -2,7 +2,7 @@
 
 * Подробная [инструкция по установке и настройке R, Rstudio](https://bdemeshev.github.io/installation/r/R_installation.html).
 
-* Список [найденных опечаток](https://github.com/bdemeshev/empset/issues).
+* Список найденных опечаток: [издание 1](https://github.com/bdemeshev/em_pset/raw/master/errata/errata_I/metrics_errata_I.pdf), [издание 2](https://github.com/bdemeshev/empset/issues?q=).
 
 Если нашлась новая опечатка, то, пожалуйста, [сообщите о ней](https://github.com/bdemeshev/empset/issues/new) :) 
 
